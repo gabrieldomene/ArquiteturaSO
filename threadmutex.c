@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 
-#define N_THREAD 20800
+#define N_THREAD 15000
 
 pthread_mutex_t mutex;
 int contador_global = 0;
